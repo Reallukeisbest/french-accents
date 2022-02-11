@@ -10,12 +10,13 @@ Shift-click to copy the capitalized accent.
 
 ## In order to download this extension:
 
-1. Download the zip file under "assets"
-2. Go to chrome://extensions/
+1. Go to [the releases tab](https://github.com/Reallukeisbest/french-accents/releases/tag/Release/)
+2. Download the zip file under "assets"
+3. Go to chrome://extensions/
 ![step-2](imgs/Screenshot_1.png)
-3. Turn on Developer mode
+4. Turn on Developer mode
 ![step-3](imgs/Screenshot_2.png)
-4. Reload the page
-5. Drag the zip file to the extensions page
+5. Reload the page
+6. Drag the zip file to the extensions page
 ![step-5](imgs/Screenshot_5.png)
-6. Enjoy!
+7. Enjoy!
