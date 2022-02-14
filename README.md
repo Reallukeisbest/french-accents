@@ -11,7 +11,7 @@ Shift-click to copy the capitalized accent.
 ## In order to download this extension:
 
 1. Go to [the releases tab](https://github.com/Reallukeisbest/french-accents/releases/tag/Release/)
-2. Download the zip file under "assets"
+2. Scroll down and download the zip file under "assets"
 3. Go to chrome://extensions/
 ![step-2](imgs/Screenshot_1.png)
 4. Turn on Developer mode
